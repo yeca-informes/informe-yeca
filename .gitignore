@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+credenciales*.txt
+.env
+salida/
